@@ -299,5 +299,6 @@ Update this if you change the backend `PORT`.
 - Note data is scoped to the authenticated user (`user` field indexed in MongoDB)
 - Groq API key is validated on the server and never exposed to the browser
 - Treat `GROQ_API_KEY` and `JWT_SECRET` as secrets; do not commit them
-#   T h u n d e r N o t e - G e n A I  
+#   T h u n d e r N o t e - G e n A I 
+ 
  
